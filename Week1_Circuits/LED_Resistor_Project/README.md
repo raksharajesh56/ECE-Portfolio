@@ -19,7 +19,7 @@
 Resistor value directly controls how bright the LED glows by limiting current flow through the circuit.
 
 ## 📷 Circuit Photo
-See `circuit_photo.jpg` in this folder
+See the photos attached in this folder
 
 ## ✅ Completed
 May 14, 2026
