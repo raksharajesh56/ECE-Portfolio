@@ -10,7 +10,7 @@ Pre-college electronics and Arduino projects - 3 month roadmap.
 
 #### Project 1: LED + Variable Resistor
 - Built simple LED circuit with different resistors
-- Tested brightness changes with 220Ω, 330Ω, 470Ω resistors
+- Tested brightness changes with 330Ω, 470Ω resistors
 - Learned Ohm's Law practically
 - **Status**: ✅ Completed
 
