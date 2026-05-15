@@ -6,7 +6,7 @@ Pre-college electronics and Arduino projects - 3 month roadmap.
 
 ## 📚 Projects
 
-### Week 1: Basic Electronics
+### Basic Electronics
 
 #### Project 1: LED + Variable Resistor
 - Built simple LED circuit with different resistors
@@ -21,8 +21,7 @@ Pre-college electronics and Arduino projects - 3 month roadmap.
 
 ---
 
-### Week 2-12 (In Progress)
-- Arduino LED Blink
+###(In Progress)
 - PWM Brightness Control
 - Traffic Light Circuit
 - Smart Home Light Controller
