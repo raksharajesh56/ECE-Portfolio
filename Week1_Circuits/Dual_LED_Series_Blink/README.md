@@ -39,8 +39,8 @@ void loop() {
 - Arduino Uno microcontroller
 - USB cable (Type-B)
 - Breadboard
-- 2x 5mm LEDs (any color, can be different colors)
-- 1x 470Ω resistor (1/4W) ← KEY: Higher than single LED!
+- 2x 5mm LEDs (Blue and Red)
+- 1x 470Ω resistor and 330Ω (1/4W) ← KEY: Higher than single LED!
 - Jumper wires (red, black)
 
 ## Circuit Explanation
@@ -49,7 +49,7 @@ void loop() {
 - Single current path through both LEDs
 - Both LEDs get same current → same brightness
 - Both receive HIGH/LOW signal at exact same time → synchronized blinking
-- Uses only 1 Arduino pin (pin 13)
+- Uses only 2 Arduino pin (pin 11 and pin 13)
 
 **Why 470Ω Resistor?**
 - Single LED: 220Ω (drops ~2V)
