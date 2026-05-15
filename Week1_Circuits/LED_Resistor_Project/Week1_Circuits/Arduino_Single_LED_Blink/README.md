@@ -104,6 +104,6 @@ May 15, 2026
 
 ## References
 
-- Arduino digitalWrite() documentation: arduino.cc/reference/en/language/functions/digital-io/digitalwrite/
-- Arduino delay() documentation: arduino.cc/reference/en/language/functions/time/delay/
-- Arduino pinMode() documentation: arduino.cc/reference/en/language/functions/digital-io/pinmode/
+- Youtube : https://youtu.be/9uHZB7-T_XA?si=xbwStAnOl8JKM14s (Paul McWhorter)
+- blogs : to rectify USB installaltion issues
+
