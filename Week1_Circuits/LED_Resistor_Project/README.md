@@ -3,20 +3,21 @@
 
 | Resistor | LED Brightness | Current Flow |
 |----------|----------------|--------------|
-| 220Ω | Very Bright | High |
 | 330Ω | Medium Bright | Medium |
 | 470Ω | Dim | Low |
 
 ## 💡 What I Learned
 
 **Ohm's Law**: V = I × R
-- Voltage stays same (5V)
+- Voltage stays same (9V)
 - Larger resistor = less current = dimmer LED
 - Smaller resistor = more current = brighter LED
 - Resistors protect LEDs from burning out (current limiting)
 
 ## 🎯 Key Takeaway
 Resistor value directly controls how bright the LED glows by limiting current flow through the circuit.
+always make sure the circuit is complete inside the breadboard
+i learnt the use of male-male jumper wires.
 
 ## 📷 Circuit Photo
 See the photos attached in this folder
