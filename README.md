@@ -20,8 +20,6 @@ Pre-college electronics and Arduino projects - 3 month roadmap.
 - Ohm's Law: V = I × R
 
 ---
-
-###(In Progress)
 - PWM Brightness Control
 - Traffic Light Circuit
 - Smart Home Light Controller
